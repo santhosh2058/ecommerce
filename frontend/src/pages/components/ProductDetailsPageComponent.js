@@ -11,7 +11,6 @@ import {
 import { Rating } from "react-simple-star-rating";
 import AddedToCartMessageComponent from "../../components/AddedToCartMessageComponent";
 
-import ImageZoom from "js-image-zoom";
 import { useEffect, useState, useRef } from "react";
 import MetaComponent from "../../components/MetaComponent";
 
